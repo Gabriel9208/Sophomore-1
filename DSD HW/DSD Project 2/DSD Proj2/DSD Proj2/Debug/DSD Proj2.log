@@ -1,0 +1,60 @@
+﻿  Source.cpp
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(94,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(119,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(136,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(143,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(155,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(160,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(162,74): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(166,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(182,69): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(186,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(198,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(208,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(210,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(214,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(229,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(232,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(235,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(246,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(258,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(268,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(274,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(275,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(284,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(285,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(295,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(298,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(299,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(309,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(310,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(311,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(320,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(321,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(322,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(330,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(331,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(333,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(335,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(336,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(356,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(358,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(360,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(361,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(370,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(386,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(394,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(395,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(409,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(410,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(411,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(422,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(423,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(431,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(432,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(438,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(439,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(452,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(466,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\yen08\OneDrive\桌面\DSD Proj2\DSD Proj2\Source.cpp(476,11): warning C4018: '>=': signed/unsigned mismatch
+  DSD Proj2.vcxproj -> C:\Users\yen08\OneDrive\桌面\DSD Proj2\Debug\DSD Proj2.exe

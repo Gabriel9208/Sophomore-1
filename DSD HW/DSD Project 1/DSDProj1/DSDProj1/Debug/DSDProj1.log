@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\yen08\OneDrive\桌面\DSD Project 1\DSDProj1\DSDProj1\main.cpp(42,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\yen08\OneDrive\桌面\DSD Project 1\DSDProj1\DSDProj1\main.cpp(88,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Project 1\DSDProj1\DSDProj1\main.cpp(121,56): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\yen08\OneDrive\桌面\DSD Project 1\DSDProj1\DSDProj1\main.cpp(153,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Project 1\DSDProj1\DSDProj1\main.cpp(154,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yen08\OneDrive\桌面\DSD Project 1\DSDProj1\DSDProj1\main.cpp(185,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  DSDProj1.vcxproj -> C:\Users\yen08\OneDrive\桌面\DSD Project 1\DSDProj1\Debug\DSDProj1.exe

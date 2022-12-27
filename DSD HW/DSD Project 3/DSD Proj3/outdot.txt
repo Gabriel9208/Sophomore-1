@@ -1,0 +1,8 @@
+digraph STG{
+rankdir=LR;
+
+INIT [shape = point];
+S1  [label="S1"];
+S2  [label="S2"];
+
+INIT -> S1;
