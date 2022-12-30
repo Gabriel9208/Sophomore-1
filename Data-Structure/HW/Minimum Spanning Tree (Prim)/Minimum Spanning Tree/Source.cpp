@@ -24,7 +24,7 @@ class Spanning {
 public:
 	Spanning(int v, int e);
 	int matrixGet(int r, int c) { return matrix[r][c]; }
-	void addEdge(int src, int des, int w) { matrix[src][des] = w; matrix[des][src] = w; }
+	void addEdge(int src, int des, int w);
 	void create();
 	void addNodeName(string name);
 	void findMin();
@@ -35,9 +35,11 @@ public:
 int main() {
 	int vNum = 0, eNum = 0;
 	std::cin >> vNum >> eNum;
-	Spanning tree(vNum, eNum);
-	tree.create();
-	tree.findMin();
+	if (vNum != 0 && eNum != 0) {
+		Spanning tree(vNum, eNum);
+		tree.create();
+		tree.findMin();
+	}
 }
 
 Spanning::Spanning(int v, int e) :vertexAmount(v), edgeAmount(e), weight(0)
@@ -56,6 +58,14 @@ Spanning::Spanning(int v, int e) :vertexAmount(v), edgeAmount(e), weight(0)
 		}
 	}
 
+}
+
+void Spanning::addEdge(int src, int des, int w)
+{
+	if (matrix[src][des] > w) {
+		matrix[src][des] = w;
+		matrix[des][src] = w;
+	} 
 }
 
 void Spanning::create()
@@ -146,7 +156,7 @@ void Spanning::finding(vector<edge>& all, vector<edge>& res, vector<int>& vis)
 
 	// add to all
 	for (int i = 0; i < vertexAmount; i++) {
-		if (matrix[index][i] != 2147483647) {
+		if (matrix[index][i] != 2147483647 && index != i) {
 			edge temp;
 			temp.src = nodeName[index];
 			temp.des = nodeName[i];
@@ -195,10 +205,10 @@ void Spanning::print(vector<edge>& res)
 	for (int i = 0; i < res.size(); i++) {
 		sumWeight += res[i].weight;
 	}
-	std::cout << sumWeight << std::endl;
+	std::cout << sumWeight << "\n";
 	for (int i = 0; i < res.size(); i++) {
 		std::cout << res[i].src << " " << res[i].des << " " << res[i].weight;
-		if (i != res.size() - 1) std::cout << std::endl;
+		if (i != res.size() - 1) std::cout << "\n";
 	}
 }
 
@@ -235,7 +245,7 @@ void Spanning::findMin()
 	vector<edge> resultEdges;
 	vector<int> visited;
 	for (int i = 0; i < vertexAmount; i++) {
-		if (matrix[0][i] != 2147483647) {
+		if (matrix[0][i] != 2147483647 && i != 0) {
 			edge temp;
 			temp.src = nodeName[0];
 			temp.des = nodeName[i];
@@ -246,4 +256,5 @@ void Spanning::findMin()
 	visited.push_back(0);
 	finding(allEdges, resultEdges, visited);
 	print(resultEdges);
+	
 }
